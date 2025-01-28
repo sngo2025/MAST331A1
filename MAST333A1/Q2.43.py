@@ -5,8 +5,6 @@ import os
 
 os.system('clear')
 
-#Q 2.43
-
 data = np.array([8, 7, 1, 4, 6, 6, 4, 5, 7, 6, 3, 0])
 data.sort()
 

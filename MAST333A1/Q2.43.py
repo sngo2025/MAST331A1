@@ -3,6 +3,7 @@ import numpy as np
 from scipy import stats
 import os
 
+
 os.system('clear')
 
 data = np.array([8, 7, 1, 4, 6, 6, 4, 5, 7, 6, 3, 0])
